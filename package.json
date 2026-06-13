@@ -1,0 +1,9 @@
+{
+  "name": "smartfix-workspace",
+  "version": "1.0.0",
+  "description": "Root workspace configuration for SmartFix",
+  "scripts": {
+    "test": "python run_all_tests.py"
+  },
+  "private": true
+}
