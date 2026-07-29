@@ -1,0 +1,11 @@
+# Disable Jekyll theme processing so plain HTML is served as-is
+theme: null
+plugins: []
+exclude:
+  - "*.json"
+  - "*.js"
+  - "*.py"
+  - "*.txt"
+  - "*.exe"
+  - "backend/"
+  - "frontend/"
